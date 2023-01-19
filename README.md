@@ -46,9 +46,9 @@
 
 <br>
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=seyitErdemir&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" width="45%" alt="seyitErdemir" /></p>
+ <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seyitErdemir&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" width="54%" alt="seyitErdemir" /></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seyitErdemir&show_icons=true&theme=vision-friendly-dark&locale=en" alt="seyitErdemir" width="52%"/></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyitErdemir&hide=html,css&langs_count=3&show_icons=true&theme=vision-friendly-dark&locale=en" alt="seyitErdemir" height="240" width="42%"/></p>
 
   
 
