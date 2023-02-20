@@ -25,6 +25,17 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
 <br>
 <h2 align="center"> :hammer_and_wrench: Languages and Tools </h2> 
  
@@ -43,9 +54,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
+ 
 <br>
 
+ <div align="center" >
+    <h2 align="center"> ⚡ Recent Activity</h2>
+  
+  <!--START_SECTION:activity-->
+ 🎉 Merged PR [#1513](https://github.com/devicons/devicon/pull/1513) in [devicons/devicon](https://github.com/devicons/devicon)
+<!--END_SECTION:activity-->
+</div>
+  
+<br>
+<br>
  <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seyitErdemir&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" width="54%" alt="seyitErdemir" /></p>
 
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyitErdemir&hide=html,css&langs_count=3&show_icons=true&theme=vision-friendly-dark&locale=en" alt="seyitErdemir" height="240" width="42%"/></p>
