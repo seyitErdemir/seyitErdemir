@@ -21,7 +21,7 @@
 <h2 align="center"> :seedling: I’m currently learning </h2> 
 <div align="center" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" title="symfony" alt="symfony" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="java-spring" alt="java-spring" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
 </div>
 
@@ -46,8 +46,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="codeigniter" alt="codeigniter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" title="symfony" alt="symfony" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
@@ -66,11 +67,20 @@
 </div>
   
 <br>
-<br>
- <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seyitErdemir&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" width="54%" alt="seyitErdemir" /></p>
-
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyitErdemir&hide=html,css&langs_count=3&show_icons=true&theme=vision-friendly-dark&locale=en" alt="seyitErdemir" height="240" width="42%"/></p>
-
+<table align="center" >
+    <tr>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=seyitErdemir&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=seyitErdemir&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact">
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=seyitErdemir&hide=html,css&langs_count=3&show_icons=true&theme=vision-friendly-dark&locale=en">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyitErdemir&hide=html,css&langs_count=3&show_icons=true&theme=vision-friendly-dark&locale=en">
+        </a>
+        </td>
+    </tr>
+</table>
   
 
 
