@@ -52,7 +52,7 @@
   <!--START_SECTION:activity-->
  🎉 Merged PR [#1513](https://github.com/devicons/devicon/pull/1513) in [devicons/devicon](https://github.com/devicons/devicon)
  <br>
- 🎉 Merged PR [#2](https://github.com/WEG-Technology/room/pull/2) in [devicons/devicon](https://github.com/WEG-Technology/room)
+ 🎉 Merged PR [#2](https://github.com/WEG-Technology/room/pull/2) in [wegTechnology/room](https://github.com/WEG-Technology/room)
 <!--END_SECTION:activity-->
 </div>
   
